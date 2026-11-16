@@ -1,0 +1,6 @@
+{
+  "name": "The Mini Beauty Corner",
+  "description": "Corner de belleza y animación infantil para niñas: fiestas spa, manicura glitter, maquillaje fantasía, tatuajes temporales y talleres de pulseras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
